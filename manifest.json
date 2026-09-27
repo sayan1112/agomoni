@@ -1,0 +1,26 @@
+{
+  "name": "আগমনী — Agomoni Durga Puja",
+  "short_name": "আগমনী",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#0d0e15",
+  "theme_color": "#f1d449",
+  "description": "আগমনী (Agomoni) — Live Durga Pujo Countdown, Radio & 120+ North and South Kolkata Club Parikrama Guide for every year.",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "music", "culture"]
+}
