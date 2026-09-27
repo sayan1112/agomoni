@@ -44,8 +44,8 @@ export default function Header({ onOpenDevelopers, onOpenBuyChai, onOpenInstall 
 
       {/* Right: Quick Links & Actions */}
       <div className="relative flex items-center justify-end gap-1.5 sm:gap-2 z-10">
-        {/* Playlist streaming links (YouTube Music & Spotify) - visible on tablet and desktop */}
-        <div className="hidden sm:flex glass-pill">
+        {/* Playlist streaming links (YouTube Music & Spotify) - hidden on mobile, visible on tablet/desktop */}
+        <div className="glass-pill max-sm:!hidden">
           {/* YouTube Music Icon */}
           <a
             href="https://music.youtube.com/playlist?list=PLJAiFJ6bGyew&si=KNYY_Wx9KMaLK2D8"
