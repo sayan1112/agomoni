@@ -23,34 +23,51 @@ export default function CenterTitle({ onOpenPujoList }) {
       {/* Creative Festive Countdown / Active Pujo / Mahalaya Special Pill */}
       <div className="mt-4 sm:mt-6 pointer-events-auto flex flex-col items-center gap-2.5">
         {isMahalayaActive || isPlayingMahalaya || isMahalayaDay ? (
-          /* Mahalaya Active Festive Card */
+          /* Mahalaya Active Festive Card - High Contrast */
           <div
             onClick={triggerMahalayaMode}
-            className="group cursor-pointer inline-flex items-center gap-2.5 rounded-full px-5 py-2.5 border border-[#f1d449]/30 bg-white/7 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_4px_20px_rgba(0,0,0,0.15)] transition hover:bg-white/12 hover:scale-105 active:scale-95 animate-scale-in"
+            className="group cursor-pointer inline-flex items-center gap-2.5 rounded-full px-5 py-2.5 border border-[#f1d449]/40 bg-black/45 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_8px_32px_rgba(0,0,0,0.4)] transition hover:bg-black/60 hover:scale-105 active:scale-95 animate-scale-in"
           >
             <span className="flex h-2.5 w-2.5 relative">
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#f1d449] opacity-75" />
               <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-[#f1d449]" />
             </span>
-            <span className="text-sm sm:text-base font-semibold text-[#f1d449] font-tagline tracking-wide">
-              আজ শুভ মহালয়া • ভোর ৪টের মহিষাসুরমর্দিনী
+            <span className="text-xs sm:text-sm font-bold text-[#f1d449] font-bengaliSans">
+              আজ শুভ মহালয়া
             </span>
-            <Radio size={16} className="text-[#f1d449] animate-pulse" />
+            <span className="hidden sm:inline text-white/40">•</span>
+            <span className="text-xs sm:text-sm font-medium text-white/90 font-tagline">
+              ভোর ৪টের মহিষাসুরমর্দিনী
+            </span>
+            <Radio size={15} className="text-[#f1d449] animate-pulse shrink-0" />
           </div>
         ) : isPujoActive ? (
-          /* Active Pujo Celebration Pill */
-          <div className="group relative inline-flex items-center gap-2.5 sm:gap-3 rounded-full px-5 sm:px-6 py-2 sm:py-2.5 border border-[#f1d449]/35 bg-white/10 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_4px_25px_rgba(241,212,73,0.2)] animate-scale-in">
-            <span className="text-[#f1d449] text-base">🪔</span>
-            <span className="font-tagline text-xs sm:text-sm font-bold text-[#f1d449]">
-              আজ {bengaliTithiName}! শুভ দুর্গাপূজা {targetYear}!
+          /* Active Pujo Celebration Pill - Razor-sharp Contrast & Festive Elegance */
+          <div className="group relative inline-flex items-center gap-2 sm:gap-2.5 rounded-full px-4 sm:px-6 py-2 sm:py-2.5 border border-white/20 bg-black/45 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_8px_32px_rgba(0,0,0,0.4)] transition hover:border-[#f1d449]/50 hover:bg-black/55 animate-scale-in">
+            <span className="text-base select-none">🪔</span>
+            
+            <span className="font-tagline text-xs sm:text-sm font-medium text-white/80">
+              আজ
             </span>
-            <Sparkles size={14} className="text-[#f1d449]" />
+
+            {/* Glowing Golden Tithi Badge */}
+            <span className="inline-flex items-center rounded-lg bg-[#f1d449]/20 border border-[#f1d449]/45 px-2.5 py-0.5 font-bengaliSans font-bold text-xs sm:text-sm text-[#f1d449] shadow-[0_0_14px_rgba(241,212,73,0.3)]">
+              {bengaliTithiName}
+            </span>
+
+            <span className="font-tagline text-xs sm:text-sm font-semibold text-white tracking-wide">
+              {activeTithi === 'Vijaya Dashami' || activeTithi === 'Subho Bijoya' 
+                ? 'শুভ বিজয়া!' 
+                : `শুভ দুর্গাপূজা ${targetYear}!`}
+            </span>
+
+            <Sparkles size={14} className="text-[#f1d449] animate-pulse shrink-0 ml-0.5" />
           </div>
         ) : (
-          /* Creative Days Left Countdown Badge (High Transparency Glass) */
-          <div className="group relative inline-flex items-center gap-2 sm:gap-3 rounded-full px-4 sm:px-6 py-2 sm:py-2.5 border border-white/15 bg-white/7 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_4px_20px_rgba(0,0,0,0.12)] transition hover:bg-white/12 hover:border-white/25">
-            {/* Sparkling Festive Diya / Sparkle */}
-            <span className="text-[#f1d449] text-sm sm:text-base">🪔</span>
+          /* Creative Days Left Countdown Badge (High Contrast Frosted Glass) */
+          <div className="group relative inline-flex items-center gap-2 sm:gap-3 rounded-full px-4 sm:px-6 py-2 sm:py-2.5 border border-white/20 bg-black/35 backdrop-blur-2xl backdrop-saturate-150 shadow-[0_6px_24px_rgba(0,0,0,0.3)] transition hover:bg-black/45 hover:border-white/30">
+            {/* Sparkling Festive Diya */}
+            <span className="text-sm sm:text-base select-none">🪔</span>
 
             {/* Bengali text with creative golden number pill */}
             <span className="font-tagline text-xs sm:text-sm font-medium text-white/90">
@@ -58,7 +75,7 @@ export default function CenterTitle({ onOpenPujoList }) {
             </span>
 
             {/* Translucent Golden Number Pill */}
-            <span className="inline-flex items-center justify-center rounded-lg bg-[#f1d449]/12 border border-[#f1d449]/30 px-2.5 py-0.5 font-tagline font-bold text-sm sm:text-lg text-[#f1d449] tabular-nums">
+            <span className="inline-flex items-center justify-center rounded-lg bg-[#f1d449]/20 border border-[#f1d449]/40 px-2.5 py-0.5 font-tagline font-bold text-sm sm:text-lg text-[#f1d449] tabular-nums shadow-[0_0_12px_rgba(241,212,73,0.25)]">
               {daysLeft}
             </span>
 
@@ -67,15 +84,15 @@ export default function CenterTitle({ onOpenPujoList }) {
             </span>
 
             {/* Subtle Divider */}
-            <span className="hidden sm:inline text-white/30">•</span>
+            <span className="hidden sm:inline text-white/35">•</span>
 
             {/* English seasonal tagline */}
-            <span className="hidden sm:inline font-tagline text-[11px] font-semibold uppercase tracking-[0.14em] text-white/60">
+            <span className="hidden sm:inline font-tagline text-[11px] font-semibold uppercase tracking-[0.14em] text-white/70">
               Until Durga Pujo {targetYear}
             </span>
 
             {/* Subtle Sparkle on right */}
-            <Sparkles size={13} className="text-[#f1d449]/70 group-hover:text-[#f1d449] transition-colors" />
+            <Sparkles size={13} className="text-[#f1d449]/80 group-hover:text-[#f1d449] transition-colors shrink-0" />
           </div>
         )}
 
