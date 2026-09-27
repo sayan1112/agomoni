@@ -1,17 +1,7 @@
-import React, { useState } from 'react';
-import { X, Copy, Check, Heart } from 'lucide-react';
+import React from 'react';
+import { X, Heart } from 'lucide-react';
 
 export default function BuyChaiModal({ isOpen, onClose }) {
-  const [copied, setCopied] = useState(false);
-  const upiId = '9163082075@ybl';
-  const phoneNumber = '+91 9163082075';
-
-  const copyUpi = () => {
-    navigator.clipboard?.writeText(upiId);
-    setCopied(true);
-    setTimeout(() => setCopied(false), 2000);
-  };
-
   if (!isOpen) return null;
 
   return (
@@ -58,43 +48,8 @@ export default function BuyChaiModal({ isOpen, onClose }) {
               <img
                 src="/images/sayan-phonepe-card.png"
                 alt="PhonePe QR Code - Sayan Dutta"
-                className="h-56 sm:h-64 w-auto object-contain rounded-xl"
+                className="h-64 sm:h-72 w-auto object-contain rounded-xl"
               />
-            </div>
-
-            {/* Recipient Details */}
-            <div className="mt-3.5 flex items-center gap-2">
-              <span className="inline-block h-2 w-2 rounded-full bg-emerald-400 animate-pulse" />
-              <span className="text-xs font-semibold text-white/90 font-tagline">
-                Receiving on PhonePe: <strong className="text-emerald-400 font-bold">{phoneNumber}</strong>
-              </span>
-            </div>
-
-            <p className="mt-1 text-[11px] text-white/45">
-              Scan with PhonePe, Google Pay, Paytm, or any UPI app
-            </p>
-
-            {/* Copy UPI Button */}
-            <div className="mt-4 flex justify-center w-full">
-              <button
-                type="button"
-                onClick={copyUpi}
-                className="group inline-flex items-center gap-2.5 rounded-full border border-white/20 bg-white/10 hover:bg-white/20 py-2 px-5 text-xs text-white font-medium transition hover:scale-105 active:scale-95 shadow-sm cursor-pointer"
-              >
-                <span className="font-mono text-xs text-white/90 select-all font-semibold tracking-wide">
-                  {upiId}
-                </span>
-                <span
-                  className={`inline-flex shrink-0 items-center gap-1 rounded-full px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-wider transition ${
-                    copied
-                      ? 'bg-emerald-500/25 text-emerald-400 border border-emerald-500/30'
-                      : 'bg-[#f1d449]/20 text-[#f1d449] border border-[#f1d449]/30'
-                  }`}
-                >
-                  {copied ? <Check size={11} /> : <Copy size={11} />}
-                  {copied ? 'Copied' : 'Copy UPI'}
-                </span>
-              </button>
             </div>
 
             {/* Bottom Note */}
