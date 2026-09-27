@@ -8,20 +8,20 @@ export default function Header({ onOpenDevelopers, onOpenBuyChai, onOpenInstall 
   const [timeSwitcherOpen, setTimeSwitcherOpen] = useState(false);
 
   return (
-    <nav className="fixed inset-x-0 top-0 z-30 flex items-center justify-between gap-2 px-3 pt-4 sm:grid sm:grid-cols-[1fr_auto_1fr] sm:justify-normal sm:px-5">
+    <nav className="fixed inset-x-0 top-0 z-30 flex items-center justify-between px-3 sm:px-5 pt-3 sm:pt-4">
       {/* Left: Live Time Pill */}
-      <div className="relative flex items-center">
+      <div className="relative flex items-center z-10">
         <button
           type="button"
           onClick={() => setTimeSwitcherOpen(!timeSwitcherOpen)}
-          className="glass-pill px-3.5 text-xs font-medium text-white/90 transition hover:bg-white/12 active:scale-95 cursor-pointer"
+          className="glass-pill px-2.5 sm:px-3.5 text-xs font-medium text-white/90 transition hover:bg-white/12 active:scale-95 cursor-pointer"
           title="Change time / preview lighting"
         >
           <span className="tabular-nums tracking-wide">{displayParts.hour}</span>
           <span className="animate-blink px-0.5 text-white/70">:</span>
           <span className="tabular-nums tracking-wide">{displayParts.minute}</span>
-          <span className="ml-1 text-[11px] text-white/70">{displayParts.dayPeriod}</span>
-          <span className="ml-1.5 text-[10px] font-semibold tracking-wider text-white/60">
+          <span className="ml-1 text-[10px] sm:text-[11px] text-white/70">{displayParts.dayPeriod}</span>
+          <span className="ml-1 sm:ml-1.5 text-[9px] sm:text-[10px] font-semibold tracking-wider text-white/60">
             {timezoneLabel}
           </span>
         </button>
@@ -32,20 +32,20 @@ export default function Header({ onOpenDevelopers, onOpenBuyChai, onOpenInstall 
         />
       </div>
 
-      {/* Center: Brand Pill: আগমনী (Agomoni) */}
-      <div className="flex justify-center">
-        <div className="glass-pill px-4 py-1.5 text-xs font-medium text-white/90 tracking-wider flex items-center">
-          <span className="text-[#f1d449] mr-1.5 text-sm">🪔</span>
-          <span className="font-bengaliSans font-bold text-white text-sm sm:text-[15px] tracking-wide">
+      {/* Center: Brand Pill: আগমনী (Agomoni) — True absolute center on both mobile and desktop */}
+      <div className="absolute left-1/2 -translate-x-1/2 top-3 sm:top-4 pointer-events-auto">
+        <div className="glass-pill px-3.5 sm:px-4 py-1.5 text-xs font-medium text-white/90 tracking-wider flex items-center shadow-lg">
+          <span className="text-[#f1d449] mr-1.5 text-sm select-none">🪔</span>
+          <span className="font-bengaliSans font-bold text-white text-sm sm:text-[15px] tracking-wide whitespace-nowrap">
             আগমনী
           </span>
         </div>
       </div>
 
       {/* Right: Quick Links & Actions */}
-      <div className="flex items-center justify-end gap-2">
-        {/* Playlist streaming links */}
-        <div className="glass-pill">
+      <div className="relative flex items-center justify-end gap-1.5 sm:gap-2 z-10">
+        {/* Playlist streaming links (YouTube Music & Spotify) - visible on tablet and desktop */}
+        <div className="hidden sm:flex glass-pill">
           {/* YouTube Music Icon */}
           <a
             href="https://music.youtube.com/playlist?list=PLJAiFJ6bGyew&si=KNYY_Wx9KMaLK2D8"
@@ -75,7 +75,7 @@ export default function Header({ onOpenDevelopers, onOpenBuyChai, onOpenInstall 
           </a>
         </div>
 
-        {/* Modal Buttons */}
+        {/* Modal Buttons: Install, Developers, Buy Chai */}
         <div className="glass-pill">
           {/* Install / Add to Phone */}
           <button
