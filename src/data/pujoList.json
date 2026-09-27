@@ -1,0 +1,1086 @@
+{
+  "north": [
+    {
+      "id": "north-01",
+      "name": "Bagbazar Sarbojanin Durgotsav",
+      "bengaliName": "বাগবাজার সর্বজনীন দুর্গোৎসব",
+      "zone": "Bagbazar",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1919",
+      "highlight": "One of Kolkata's oldest community pujas; famed for pure classical Ekchala idol, traditional rituals, Dhunuchi dance, and iconic Sindur Khela."
+    },
+    {
+      "id": "north-02",
+      "name": "Kumartuli Park Sarbojanin",
+      "bengaliName": "কুমারটুলি পার্ক সর্বজনীন",
+      "zone": "Kumartuli",
+      "nearestMetro": "Sovabazar Sutanuti Metro",
+      "established": "1995",
+      "highlight": "Nestled in the potters' colony; celebrated for spectacular artistic theme idols, fusion sculpting, and visual tribute to Bengal's idol makers."
+    },
+    {
+      "id": "north-03",
+      "name": "Kumartuli Sarbojanin Durgotsav",
+      "bengaliName": "কুমারটুলি সর্বজনীন দুর্গোৎসব",
+      "zone": "Kumartuli",
+      "nearestMetro": "Sovabazar Sutanuti Metro",
+      "established": "1931",
+      "highlight": "Historic community puja situated at the heart of Bengal's legendary clay modeling hub, steeped in artisan heritage."
+    },
+    {
+      "id": "north-04",
+      "name": "Ahiritola Sarbojanin Durgotsab",
+      "bengaliName": "আহিরীটোলা সর্বজনীন দুর্গোৎসব",
+      "zone": "Ahiritola",
+      "nearestMetro": "Sovabazar Sutanuti Metro",
+      "established": "1940",
+      "highlight": "Renowned for deep cultural themes, heritage ambience near Ahiritola Ghat, and massive creative installations that capture Bengal's soul."
+    },
+    {
+      "id": "north-05",
+      "name": "Hatibagan Sarbojanin",
+      "bengaliName": "হাতিবাগান সর্বজনীন",
+      "zone": "Hatibagan",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1935",
+      "highlight": "Iconic crowd-puller celebrated for thoughtful socio-cultural themes, grand scale architecture, and traditional roots."
+    },
+    {
+      "id": "north-06",
+      "name": "Hatibagan Nabin Pally",
+      "bengaliName": "হাতিবাগান নবীন পল্লী",
+      "zone": "Hatibagan",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1934",
+      "highlight": "Renowned for experimental folk artistry, handcrafted natural pandal materials, and unique visual storytelling."
+    },
+    {
+      "id": "north-07",
+      "name": "Tala Prattoy (Tala Barowari)",
+      "bengaliName": "টালা প্রত্যয় (টালা বারোয়ারি)",
+      "zone": "Tala Park",
+      "nearestMetro": "Belgachia Metro",
+      "established": "1921",
+      "highlight": "Internationally acclaimed conceptual art installation; known for museum-grade contemporary architecture and thoughtful spatial design."
+    },
+    {
+      "id": "north-08",
+      "name": "Sreebhumi Sporting Club",
+      "bengaliName": "শ্রীভূমি স্পোর্টিং ক্লাব",
+      "zone": "Lake Town / VIP Road",
+      "nearestMetro": "Ultadanga / Belgachia Metro",
+      "established": "1969",
+      "highlight": "World-famous for breathtaking monumental replicas (Vatican City, Burj Khalifa, Disneyland, Ram Mandir) and gold-bedecked idols."
+    },
+    {
+      "id": "north-09",
+      "name": "Santosh Mitra Square (Lebutala Park)",
+      "bengaliName": "সন্তোষ মিত্র স্কয়ার (লেবুবাগান)",
+      "zone": "Bowbazar",
+      "nearestMetro": "Central Metro",
+      "established": "1936",
+      "highlight": "Lavish grand spectacles, famous for Las Vegas Sphere replica, gold and diamond embellished idols, and high-tech immersive lighting."
+    },
+    {
+      "id": "north-10",
+      "name": "College Square Sarbojanin",
+      "bengaliName": "কলেজ স্কয়ার সর্বজনীন",
+      "zone": "College Street",
+      "nearestMetro": "Central / MG Road Metro",
+      "established": "1948",
+      "highlight": "Magical waterfront illuminations reflecting off the historic college square lake, with monumental palace architecture."
+    },
+    {
+      "id": "north-11",
+      "name": "Maniktala Chaltabagan Lohapatty",
+      "bengaliName": "মানিকতলা চালতাবাগান লোহাপট্টি",
+      "zone": "Maniktala",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1943",
+      "highlight": "Pioneer of eco-friendly and artistic theme pujas, famous for authentic Dhak beats, celebrity visits, and unique installations."
+    },
+    {
+      "id": "north-12",
+      "name": "Kashi Bose Lane Durga Puja Samity",
+      "bengaliName": "কাশী বোস লেন দুর্গোৎসব",
+      "zone": "Hedua / Sovabazar",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1937",
+      "highlight": "Multi-award winner known for deeply touching social themes, intricate artisanal crafts, and mesmerizing soundscapes."
+    },
+    {
+      "id": "north-13",
+      "name": "Nalin Sarkar Street Sarbojanin",
+      "bengaliName": "নলীন সরকার স্ট্রিট সর্বজনীন",
+      "zone": "Shyambazar",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1933",
+      "highlight": "Celebrated for earthen materials, rural Bengal artistry, eco-friendly sculptures, and harmony with nature."
+    },
+    {
+      "id": "north-14",
+      "name": "Dum Dum Park Tarun Sangha",
+      "bengaliName": "দমদম পার্ক তরুণ সংঘ",
+      "zone": "Dum Dum Park",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "1972",
+      "highlight": "Trailblazer of avant-garde visual art in North Kolkata, showcasing thought-provoking socio-political themes."
+    },
+    {
+      "id": "north-15",
+      "name": "Dum Dum Park Bharat Chakra",
+      "bengaliName": "দমদম পার্ক ভারত চক্র",
+      "zone": "Dum Dum Park",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "2001",
+      "highlight": "Famous for intricate craftsmanship, brilliant atmospheric lighting, and vivid contemporary themes."
+    },
+    {
+      "id": "north-16",
+      "name": "Dum Dum Park Tarun Dal",
+      "bengaliName": "দমদম পার্ক তরুণ দল",
+      "zone": "Dum Dum Park",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "1978",
+      "highlight": "Folk art and tribal motif mastery, with stunning aesthetic pandal structures drawing huge crowds."
+    },
+    {
+      "id": "north-17",
+      "name": "Telenga Bagan Sarbojanin",
+      "bengaliName": "তেলেঙ্গা বাগান সর্বজনীন",
+      "zone": "Ultadanga",
+      "nearestMetro": "Sovabazar / Belgachia Metro",
+      "established": "1966",
+      "highlight": "Famous for imaginative use of everyday raw materials (clay, seeds, shells, metals) turned into high art."
+    },
+    {
+      "id": "north-18",
+      "name": "Simla Byayam Samity",
+      "bengaliName": "সিমলা ব্যায়াম সমিতি",
+      "zone": "Simla",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1926",
+      "highlight": "Historic nationalist roots founded by revolutionary Atindra Nath Bose; colossal Swadeshi spirit and majestic traditional idol."
+    },
+    {
+      "id": "north-19",
+      "name": "Sikdar Bagan Sadharan Durga Puja",
+      "bengaliName": "সিকদার বাগান সাধারণ দুর্গোৎসব",
+      "zone": "Shyambazar",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1913",
+      "highlight": "One of the oldest community pujas in North Kolkata, renowned for miniature detailing, heritage charm, and traditional values."
+    },
+    {
+      "id": "north-20",
+      "name": "Jagat Mukherjee Park",
+      "bengaliName": "জগৎ মুখার্জি পার্ক",
+      "zone": "Sovabazar",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1936",
+      "highlight": "Known for creative environmental and heritage themes with an intimate, welcoming neighborhood spirit."
+    },
+    {
+      "id": "north-21",
+      "name": "Beniatola Sarbojanin Durgotsav",
+      "bengaliName": "বেনিয়াটোলা সর্বজনীন দুর্গোৎসব",
+      "zone": "Sovabazar",
+      "nearestMetro": "Sovabazar Sutanuti Metro",
+      "established": "1948",
+      "highlight": "Famous for authentic traditional idol craftsmanship, classical Daker Saaj ornaments, and rich Bengali cultural identity."
+    },
+    {
+      "id": "north-22",
+      "name": "Shobhabazar Rajbari (Bonedi Bari)",
+      "bengaliName": "শোভাবাজার রাজবাড়ি দুর্গোৎসব",
+      "zone": "Sovabazar",
+      "nearestMetro": "Sovabazar Sutanuti Metro",
+      "established": "1757",
+      "highlight": "Aristocratic heritage puja begun by Maharaja Nabakrishna Deb; historic natmandir courtyard, cannon-firing rituals, and centuries-old nobility."
+    },
+    {
+      "id": "north-23",
+      "name": "Mohammad Ali Park",
+      "bengaliName": "মহম্মদ আলি পার্ক",
+      "zone": "Central Kolkata",
+      "nearestMetro": "MG Road Metro",
+      "established": "1969",
+      "highlight": "Massive monument replica built inside the park grounds, known for intricate traditional idol and illuminated reflections."
+    },
+    {
+      "id": "north-24",
+      "name": "Ultadanga Bidhan Sangha",
+      "bengaliName": "উল্টোডাঙা বিধান সংঘ",
+      "zone": "Ultadanga",
+      "nearestMetro": "Belgachia Metro",
+      "established": "1970",
+      "highlight": "Remarkable thematic architectural creations and dynamic social commentary presented through contemporary crafts."
+    },
+    {
+      "id": "north-25",
+      "name": "Gouribari Sarbojanin Durgotsab",
+      "bengaliName": "গৌরীবাড়ি সর্বজনীন দুর্গোৎসব",
+      "zone": "Khanna / Ultadanga",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1953",
+      "highlight": "Celebrated for innovative rural folk artistry, traditional rituals, and warm festive hospitality."
+    },
+    {
+      "id": "north-26",
+      "name": "Chorbagan Sarbojanin",
+      "bengaliName": "চোরবাগান সর্বজনীন",
+      "zone": "Ram Mohan Sarani",
+      "nearestMetro": "MG Road Metro",
+      "established": "1936",
+      "highlight": "Deeply cultural themes, celebrating classical Bengali literature, folklore, and heritage sculpture."
+    },
+    {
+      "id": "north-27",
+      "name": "Shyambazar Polly Shikha",
+      "bengaliName": "শ্যামবাজার পল্লী শিখা",
+      "zone": "Shyambazar",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1963",
+      "highlight": "Famous for authentic neighborhood bonding, heritage cultural programmes, and beautiful pandal decor."
+    },
+    {
+      "id": "north-28",
+      "name": "Lake Town Netaji Sporting Club",
+      "bengaliName": "লেক টাউন নেতাজী স্পোর্টিং ক্লাব",
+      "zone": "Lake Town",
+      "nearestMetro": "Ultadanga Metro",
+      "established": "1974",
+      "highlight": "Pioneering creative art puja in the Lake Town circuit, renowned for intricate handcrafted pandals and vibrant ambience."
+    },
+    {
+      "id": "north-29",
+      "name": "Beleghata 33 Pally",
+      "bengaliName": "বেলেঘাটা ৩৩ পল্লী",
+      "zone": "Beleghata",
+      "nearestMetro": "Phoolbagan Metro",
+      "established": "2001",
+      "highlight": "Famous for sensational nostalgic vintage themes (e.g. vintage ambassador taxi tribute) and bold spatial creativity."
+    },
+    {
+      "id": "north-30",
+      "name": "Ultadanga Pallysree",
+      "bengaliName": "উল্টোডাঙা পল্লীশ্রী",
+      "zone": "Ultadanga",
+      "nearestMetro": "Belgachia Metro",
+      "established": "1950",
+      "highlight": "Classic North Kolkata community puja known for eco-friendly pandals, cultural reverence, and devotional atmosphere."
+    },
+    {
+      "id": "north-31",
+      "name": "Lake Town Natunpally Pradeep Sangha",
+      "bengaliName": "লেক টাউন নতুনপল্লী প্রদীপ সংঘ",
+      "zone": "Lake Town",
+      "nearestMetro": "Ultadanga Metro",
+      "established": "1973",
+      "highlight": "Three-time consecutive Asian Paints Sharad Shamman Best Puja winner; famed for artistic mastery and exquisite idols."
+    },
+    {
+      "id": "north-32",
+      "name": "Karbagan Sarbojanin",
+      "bengaliName": "করবাগান সর্বজনীন",
+      "zone": "Ultadanga",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1964",
+      "highlight": "Renowned for innovative theme pandals using earthy clay and terracotta arts, consistently winning critical acclaim."
+    },
+    {
+      "id": "north-33",
+      "name": "Pathuriaghata 5er Pally",
+      "bengaliName": "পাথুরিয়াঘাটা ৫-এর পল্লী",
+      "zone": "Pathuriaghata",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1990",
+      "highlight": "Known for museum-grade traditional crafts, heritage North Kolkata charm, and vibrant cultural celebrations."
+    },
+    {
+      "id": "north-34",
+      "name": "Darpanarayan Tagore Street",
+      "bengaliName": "দর্পনারায়ন ঠাকুর স্ট্রিট",
+      "zone": "Pathuriaghata",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1982",
+      "highlight": "Pioneering creative art installation, famously remembered for groundbreaking natural and eco-organic pandals."
+    },
+    {
+      "id": "north-35",
+      "name": "Brindaban Matri Mandir",
+      "bengaliName": "বৃন্দাবন মাতৃ মন্দির",
+      "zone": "Sukhiya Street",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1910",
+      "highlight": "Kolkata's first organized Barowari community puja; monumental heritage significance and deep ritualistic sanctity."
+    },
+    {
+      "id": "north-36",
+      "name": "Nimtola Ghat Street Sarbojanin",
+      "bengaliName": "নিমতলা ঘাট স্ট্রিট সর্বজনীন",
+      "zone": "Nimtola",
+      "nearestMetro": "Sovabazar Sutanuti Metro",
+      "established": "1940",
+      "highlight": "Historic waterfront puja along the Hooghly river; famous for classical traditions, Dhunuchi dance, and devotion."
+    },
+    {
+      "id": "north-37",
+      "name": "Kankurgachi Nabadai Pally Mangal Samity",
+      "bengaliName": "কাঁকুড়গাছি নবোদয় পল্লী মঙ্গল সমিতি",
+      "zone": "Kankurgachi",
+      "nearestMetro": "Phoolbagan Metro",
+      "established": "1968",
+      "highlight": "Famous for captivating visual storytelling, intricate handcrafted details, and vibrant festive crowds."
+    },
+    {
+      "id": "north-38",
+      "name": "Kankurgachi Youngsters",
+      "bengaliName": "কাঁকুড়গাছি ইয়ংস্টার্স",
+      "zone": "Kankurgachi",
+      "nearestMetro": "Phoolbagan Metro",
+      "established": "1975",
+      "highlight": "A major youth-driven celebration in East-North Kolkata showcasing bold themes, grand illumination, and cultural shows."
+    },
+    {
+      "id": "north-39",
+      "name": "Swapnar Bagan Yubabrinda",
+      "bengaliName": "স্বপ্নের বাগান যুববৃন্দ",
+      "zone": "Kankurgachi",
+      "nearestMetro": "Phoolbagan Metro",
+      "established": "1988",
+      "highlight": "Celebrated for discovery awards, imaginative architectural design, and socially inspiring festival themes."
+    },
+    {
+      "id": "north-40",
+      "name": "Jawpur Bayam Samity",
+      "bengaliName": "যাওপুর ব্যায়াম সমিতি",
+      "zone": "Dum Dum",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "1954",
+      "highlight": "Pillar of community athletics and culture in Dum Dum; known for elaborate pandals and warm neighborhood spirit."
+    },
+    {
+      "id": "north-41",
+      "name": "Arjunpur Amra Sabai Club",
+      "bengaliName": "অর্জুনপুর আমরা সবাই ক্লাব",
+      "zone": "Dum Dum / Airport",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "1972",
+      "highlight": "Multi-time winner of Asian Paints Sharad Shamman; acclaimed for spectacular social messaging and visual installation art."
+    },
+    {
+      "id": "north-42",
+      "name": "Dum Dum Tarun Tirtha",
+      "bengaliName": "দমদম তরুণ তীর্থ",
+      "zone": "Dum Dum",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "1980",
+      "highlight": "Known for majestic thematic facades, sustainable pandal craftsmanship, and lively community involvement."
+    },
+    {
+      "id": "north-43",
+      "name": "Beliaghata Sarir Sangathan",
+      "bengaliName": "বেলেঘাটা শরীর সংগঠন",
+      "zone": "Beleghata",
+      "nearestMetro": "Phoolbagan Metro",
+      "established": "1952",
+      "highlight": "Historic socio-athletic institution, famed for winning early Sharad Shamman honors and traditional festive fervor."
+    },
+    {
+      "id": "north-44",
+      "name": "Sovabazar Burtolla Sarbojanin",
+      "bengaliName": "শোভাবাজার বটতলা সর্বজনীন",
+      "zone": "Sovabazar",
+      "nearestMetro": "Sovabazar Sutanuti Metro",
+      "established": "1938",
+      "highlight": "Cherished for authentic North Kolkata heritage, time-honored rituals, and traditional Sabeki idol craftsmanship."
+    },
+    {
+      "id": "north-45",
+      "name": "Darjipara Sarbojanin",
+      "bengaliName": "দর্জিপাড়া সর্বজনীন",
+      "zone": "Hedua",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1932",
+      "highlight": "Intimate heritage community puja nestled amidst iconic historic mansions, with traditional rituals and sweet bonhomie."
+    },
+    {
+      "id": "north-46",
+      "name": "Chatu Babu Latu Babu Puja Bari",
+      "bengaliName": "ছাতুবাবু লাটুবাবুর পূজা বাড়ি",
+      "zone": "Beadon Street",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1770",
+      "highlight": "Famous Bonedi Bari puja started by Ram Dulal Dey; historic thakur dalan, pure silver saaj, and centuries of tradition."
+    },
+    {
+      "id": "north-47",
+      "name": "Jorasanko Shib Krishna Daw Bari",
+      "bengaliName": "জোড়াসাঁকো শিবকৃষ্ণ দাঁ বাড়ি",
+      "zone": "Jorasanko",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1840",
+      "highlight": "Renowned for goddess Durga adorned with real traditional diamond and gold jewelry, within a palatial European-style courtyard."
+    },
+    {
+      "id": "north-48",
+      "name": "Shyambazar Pally",
+      "bengaliName": "শ্যামবাজার পল্লী",
+      "zone": "Shyambazar",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1942",
+      "highlight": "Heart of North Kolkata festivities; celebrated for neighborhood unity, cultural music programmes, and festive illumination."
+    },
+    {
+      "id": "north-49",
+      "name": "Cossipore Bharat Chakra",
+      "bengaliName": "কাশীপুর ভারত চক্র",
+      "zone": "Cossipore",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "1965",
+      "highlight": "A major cultural attraction along the northern bank of Kolkata, famous for artistic thematic pavilions and folk motifs."
+    },
+    {
+      "id": "north-50",
+      "name": "Paikpara Sarbojanin",
+      "bengaliName": "পায়রাডাঙ্গা পাইকপাড়া সর্বজনীন",
+      "zone": "Paikpara",
+      "nearestMetro": "Belgachia Metro",
+      "established": "1958",
+      "highlight": "Distinguished by serene green surroundings, artistic theme depictions, and devoted neighborhood community participation."
+    },
+    {
+      "id": "north-51",
+      "name": "Sinthee Maitree Sangha",
+      "bengaliName": "সিঁথি মৈত্রী সংঘ",
+      "zone": "Sinthee",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "1971",
+      "highlight": "Celebrated for innovative lighting designs from Chandannagar and intricate architectural replicas drawing thousands."
+    },
+    {
+      "id": "north-52",
+      "name": "Sinthee Bandhu Dal",
+      "bengaliName": "সিঁথি বন্ধু দল",
+      "zone": "Sinthee",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "1960",
+      "highlight": "Pioneer of community fellowship in Sinthee, featuring traditional devotion, lively music, and artistic pandals."
+    },
+    {
+      "id": "north-53",
+      "name": "Baranagar Friends Union",
+      "bengaliName": "বরাহনগর ফ্রেন্ডস ইউনিয়ন",
+      "zone": "Baranagar",
+      "nearestMetro": "Baranagar Metro",
+      "established": "1955",
+      "highlight": "Heritage northern outpost featuring grand cultural events, magnificent idols, and traditional devotion."
+    },
+    {
+      "id": "north-54",
+      "name": "Baranagar Netaji Colony",
+      "bengaliName": "বরাহনগর নেতাজী কলোনী",
+      "zone": "Baranagar",
+      "nearestMetro": "Baranagar Metro",
+      "established": "1962",
+      "highlight": "Popular crowd-puller known for patriotic spirit, grand theme architecture, and community feasting (Bhog)."
+    },
+    {
+      "id": "north-55",
+      "name": "Lake Town Block A Sarbojanin",
+      "bengaliName": "লেক টাউন ব্লক এ সর্বজনীন",
+      "zone": "Lake Town",
+      "nearestMetro": "Ultadanga Metro",
+      "established": "1967",
+      "highlight": "Charming residential community puja renowned for artistic elegance, family atmosphere, and traditional music."
+    },
+    {
+      "id": "north-56",
+      "name": "Bangur Avenue Sarbojanin",
+      "bengaliName": "বাঙুর অ্যাভিনিউ সর্বজনীন",
+      "zone": "Bangur",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "1961",
+      "highlight": "Grand thematic display on Bangur Avenue park grounds with elaborate lighting and huge festive crowds."
+    },
+    {
+      "id": "north-57",
+      "name": "South Dum Dum Sarbojanin",
+      "bengaliName": "দক্ষিণ দমদম সর্বজনীন",
+      "zone": "Nagerbazar",
+      "nearestMetro": "Dum Dum Metro",
+      "established": "1953",
+      "highlight": "Centuries-inspired aesthetic decorations, classical idol design, and deep social welfare activities during the puja."
+    },
+    {
+      "id": "north-58",
+      "name": "Phoolbagan Sarbojanin",
+      "bengaliName": "ফুলবাগান সর্বজনীন",
+      "zone": "Phoolbagan",
+      "nearestMetro": "Phoolbagan Metro",
+      "established": "1970",
+      "highlight": "Major crossroad attraction known for modern conceptual installations and easy metro connectivity."
+    },
+    {
+      "id": "north-59",
+      "name": "Subhas Sarobar Sarbojanin",
+      "bengaliName": "সুভাষ সরোবর সর্বজনীন",
+      "zone": "Beleghata",
+      "nearestMetro": "Phoolbagan Metro",
+      "established": "1976",
+      "highlight": "Lakeside celebration amidst lush greenery, with enchanting waterfront lighting reflections."
+    },
+    {
+      "id": "north-60",
+      "name": "Ultadanga Sanghashree",
+      "bengaliName": "উল্টোডাঙা সংঘশ্রী",
+      "zone": "Ultadanga",
+      "nearestMetro": "Belgachia Metro",
+      "established": "1965",
+      "highlight": "Popular for community sportsmanship, creative bamboo work, and traditional Dhak contests."
+    },
+    {
+      "id": "north-61",
+      "name": "Bagbazar Pally Samity",
+      "bengaliName": "বাগবাজার পল্লী সমিতি",
+      "zone": "Bagbazar",
+      "nearestMetro": "Shyambazar Metro",
+      "established": "1944",
+      "highlight": "Historic neighborhood puja celebrating Bagbazar's literary and revolutionary past with devotional elegance."
+    },
+    {
+      "id": "north-62",
+      "name": "Girish Park Sarbojanin",
+      "bengaliName": "গিরিশ পার্ক সর্বজনীন",
+      "zone": "Girish Park",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1956",
+      "highlight": "High-footfall central North Kolkata celebration famous for illuminated arches and traditional rituals."
+    },
+    {
+      "id": "north-63",
+      "name": "Rammohan Sammilani",
+      "bengaliName": "রামমোহন সম্মিলনী",
+      "zone": "Sukhiya Street",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1945",
+      "highlight": "Discovery of the Year winner; renowned for innovative pandal structures and homage to Bengal Renaissance ideals."
+    },
+    {
+      "id": "north-64",
+      "name": "Hedua Sarbojanin (Hedua Park)",
+      "bengaliName": "হেদুয়া সর্বজনীন (হেদুয়া পার্ক)",
+      "zone": "Hedua",
+      "nearestMetro": "Girish Park Metro",
+      "established": "1952",
+      "highlight": "Historic park puja situated beside the Hedua swimming pool, celebrated for classic Bengal art and radiant illuminations."
+    }
+  ],
+  "south": [
+    {
+      "id": "south-01",
+      "name": "Ekdalia Evergreen Club",
+      "bengaliName": "একডালিয়া এভারগ্রিন ক্লাব",
+      "zone": "Gariahat",
+      "nearestMetro": "Ballygunge / Kalighat Metro",
+      "established": "1943",
+      "highlight": "Legend of South Kolkata; towering South Indian temple architecture replicas, genuine German crystal chandeliers, and classical Sanatan Ekchala idol."
+    },
+    {
+      "id": "south-02",
+      "name": "Singhi Park Sarbojanin",
+      "bengaliName": "সিংঘী পার্ক সর্বজনীন",
+      "zone": "Gariahat",
+      "nearestMetro": "Kalighat Metro",
+      "established": "1941",
+      "highlight": "Revered for grand heritage temple replicas, glorious Chandannagar lighting, and commitment to traditional idol craftsmanship."
+    },
+    {
+      "id": "south-03",
+      "name": "Maddox Square (Ritchie Road)",
+      "bengaliName": "ম্যাডক্স স্কয়ার",
+      "zone": "Ballygunge",
+      "nearestMetro": "Netaji Bhavan Metro",
+      "established": "1935",
+      "highlight": "The ultimate Kolkata adda ground; expansive park filled with thousands of friends, families, traditional idol, and vibrant festive vibes."
+    },
+    {
+      "id": "south-04",
+      "name": "Suruchi Sangha (New Alipore)",
+      "bengaliName": "সুরুচি সংঘ (নিউ আলিপুর)",
+      "zone": "New Alipore",
+      "nearestMetro": "Kalighat / Majerhat",
+      "established": "1954",
+      "highlight": "Twelve-time Best Puja winner; renowned for immersive Indian state cultural themes, national unity messages, and original festival theme songs."
+    },
+    {
+      "id": "south-05",
+      "name": "Tridhara Sammilani",
+      "bengaliName": "ত্রিধারা সম্মিলনী",
+      "zone": "Manoharpukur / Rashbehari",
+      "nearestMetro": "Kalighat / Jatin Das Park Metro",
+      "established": "1947",
+      "highlight": "Consistently crowned the top creative puja in Kolkata for deeply thought-provoking, philosophical, and architectural marvels."
+    },
+    {
+      "id": "south-06",
+      "name": "Deshapriya Park",
+      "bengaliName": "দেশপ্রিয় পার্ক",
+      "zone": "Rashbehari Avenue",
+      "nearestMetro": "Kalighat Metro",
+      "established": "1938",
+      "highlight": "Monumental scale; celebrated for colossal pandals, daring architecture, and some of the largest crowd turnouts in the country."
+    },
+    {
+      "id": "south-07",
+      "name": "Ballygunge Cultural Association",
+      "bengaliName": "বালিগঞ্জ কালচারাল অ্যাসোসিয়েশন",
+      "zone": "Ballygunge",
+      "nearestMetro": "Hemanta Mukherjee / Kalighat",
+      "established": "1951",
+      "highlight": "Epitome of artistic sophistication, blending classical music, traditional Bengali folk heritage, and exquisite eco-friendly artistry."
+    },
+    {
+      "id": "south-08",
+      "name": "Chetla Agrani Club",
+      "bengaliName": "চেতলা অগ্রণী ক্লাব",
+      "zone": "Chetla",
+      "nearestMetro": "Kalighat / Jatin Das Park Metro",
+      "established": "1959",
+      "highlight": "Visual triumph of fine arts and craftsmanship; masterfully curated by leading artists with breathtaking hand-sculpted details."
+    },
+    {
+      "id": "south-09",
+      "name": "Mudiali Club",
+      "bengaliName": "মুদিয়ালি ক্লাব",
+      "zone": "Southern Avenue / Kalighat",
+      "nearestMetro": "Rabindra Sarobar / Kalighat",
+      "established": "1935",
+      "highlight": "Celebrated for environmental themes, natural materials, and an idol adorned in exquisite traditional daker saaj."
+    },
+    {
+      "id": "south-10",
+      "name": "Shiv Mandir Sarbojanin",
+      "bengaliName": "শিব মন্দির সর্বজনীন",
+      "zone": "Lake Temple Road",
+      "nearestMetro": "Rabindra Sarobar Metro",
+      "established": "1936",
+      "highlight": "Earthy, rustic Bengali village aesthetics created with remarkable intimacy, serene lighting, and cultural soul."
+    },
+    {
+      "id": "south-11",
+      "name": "Badamtala Ashar Sangha",
+      "bengaliName": "বাদামতলা আষাঢ় সংঘ",
+      "zone": "Kalighat",
+      "nearestMetro": "Kalighat Metro",
+      "established": "1939",
+      "highlight": "The pioneer of thematic Durga Puja in South Kolkata; winner of multiple prestigious awards for groundbreaking conceptual design."
+    },
+    {
+      "id": "south-12",
+      "name": "66 Pally (Kalighat)",
+      "bengaliName": "৬৬ পল্লী (কালীঘাট)",
+      "zone": "Kalighat / Nepal Bhattacharjee St",
+      "nearestMetro": "Kalighat Metro",
+      "established": "1946",
+      "highlight": "Trailblazer in community inclusivity; made history by appointing women priestesses and curating deeply emotional humanistic themes."
+    },
+    {
+      "id": "south-13",
+      "name": "Samaj Sebi Sangha",
+      "bengaliName": "সমাজ সেবী সংঘ",
+      "zone": "Lake View Road",
+      "nearestMetro": "Kalighat / Hemanta Mukherjee",
+      "established": "1946",
+      "highlight": "World-renowned for humanitarian social installations, including Braille pandals for the visually impaired and anti-pollution initiatives."
+    },
+    {
+      "id": "south-14",
+      "name": "Naktala Udayan Sangha",
+      "bengaliName": "নাকতলা উদয়ন সংঘ",
+      "zone": "Naktala",
+      "nearestMetro": "Gitanjali (Naktala) Metro",
+      "established": "1950",
+      "highlight": "Mammoth conceptual art installations, large-scale moving kinetic sculptures, and powerful reflections on human civilization."
+    },
+    {
+      "id": "south-15",
+      "name": "Jodhpur Park Saradiya Durgotsab",
+      "bengaliName": "যোধপুর পার্ক শারদীয়া দুর্গোৎসব",
+      "zone": "Jodhpur Park",
+      "nearestMetro": "Dhakuria / Rabindra Sarobar",
+      "established": "1952",
+      "highlight": "One of South Kolkata's biggest park pandals, featuring technological innovation, 3D printing, and grand social installations."
+    },
+    {
+      "id": "south-16",
+      "name": "95 Pally (Jodhpur Park)",
+      "bengaliName": "৯৫ পল্লী (যোধপুর পার্ক)",
+      "zone": "Jodhpur Park",
+      "nearestMetro": "Rabindra Sarobar / Dhakuria",
+      "established": "1969",
+      "highlight": "Celebrated for innovative miniature craftwork, terracotta traditions, and deeply atmospheric acoustic design."
+    },
+    {
+      "id": "south-17",
+      "name": "Hindustan Park Sarbojanin",
+      "bengaliName": "হিন্দুস্তান পার্ক সর্বজনীন",
+      "zone": "Gariahat",
+      "nearestMetro": "Kalighat Metro",
+      "established": "1931",
+      "highlight": "Celebrates Bengal's indigenous folk art, patachitra, kantha embroidery, and handloom traditions in an immersive visual treat."
+    },
+    {
+      "id": "south-18",
+      "name": "Bosepukur Sitala Mandir",
+      "bengaliName": "বোসপুকুর শীতলা মন্দির",
+      "zone": "Kasba",
+      "nearestMetro": "Ballygunge / Hemanta Mukherjee",
+      "established": "1950",
+      "highlight": "Historic trendsetter that revolutionized Kolkata Durga Puja with the legendary clay kulhar (earthen pot) pandal."
+    },
+    {
+      "id": "south-19",
+      "name": "Bosepukur Talbagan",
+      "bengaliName": "বোসপুকুর তালবাগান",
+      "zone": "Kasba",
+      "nearestMetro": "Ballygunge Metro",
+      "established": "1991",
+      "highlight": "Acclaimed for organic craft materials, intricate hand-woven bamboo structures, and sustainable artistry."
+    },
+    {
+      "id": "south-20",
+      "name": "Rajdanga Naba Uday Sangha",
+      "bengaliName": "রাজডাঙ্গা নব উদয় সংঘ",
+      "zone": "Kasba",
+      "nearestMetro": "Ballygunge / Ruby",
+      "established": "1969",
+      "highlight": "Spectacular craftsmanship transforming brass, copper, terracotta, and handloom fabrics into majestic visual poetry."
+    },
+    {
+      "id": "south-21",
+      "name": "Babubagan Club Sarbojanin",
+      "bengaliName": "বাবুবাগান ক্লাব সর্বজনীন",
+      "zone": "Dhakuria",
+      "nearestMetro": "Dhakuria / Rabindra Sarobar",
+      "established": "1962",
+      "highlight": "Famed for heritage historical replicas (ancient Indian coins, stamps, temple carvings, archaeological museums)."
+    },
+    {
+      "id": "south-22",
+      "name": "Selimpur Pally",
+      "bengaliName": "সেলিমপুর পল্লী",
+      "zone": "Dhakuria",
+      "nearestMetro": "Dhakuria / Rabindra Sarobar",
+      "established": "1935",
+      "highlight": "Renowned for rustic charm, eco-friendly natural materials, and harmonious integration of nature and divinity."
+    },
+    {
+      "id": "south-23",
+      "name": "Behala Nutan Dal",
+      "bengaliName": "বেহালা নতুন দল",
+      "zone": "Behala",
+      "nearestMetro": "Taratala / Behala Chowrasta Metro",
+      "established": "1968",
+      "highlight": "Crown jewel of Behala's pujas, presenting cutting-edge international architectural installations and evocative music."
+    },
+    {
+      "id": "south-24",
+      "name": "Barisha Club",
+      "bengaliName": "বড়িশা ক্লাব",
+      "zone": "Behala Chowrasta",
+      "nearestMetro": "Behala Chowrasta Metro",
+      "established": "1989",
+      "highlight": "World-famous for emotionally gripping social themes (the migrant mother idol, climate refugee installations)."
+    },
+    {
+      "id": "south-25",
+      "name": "Behala Club",
+      "bengaliName": "বেহালা ক্লাব",
+      "zone": "Behala",
+      "nearestMetro": "Behala Tram Depot / Taratala",
+      "established": "1945",
+      "highlight": "Known for thought-provoking storytelling, immersive audio-visual exhibits, and deep philosophical narratives."
+    },
+    {
+      "id": "south-26",
+      "name": "Ajeya Sangha",
+      "bengaliName": "অজেয় সংঘ",
+      "zone": "Harish Mukherjee Road",
+      "nearestMetro": "Netaji Bhavan Metro",
+      "established": "1966",
+      "highlight": "Distinguished by intimate artistic craftsmanship, refined lighting, and serene spiritual ambience in South Kolkata."
+    },
+    {
+      "id": "south-27",
+      "name": "Haridevpur 41 Pally",
+      "bengaliName": "হরিদেবপুর ৪১ পল্লী",
+      "zone": "Haridevpur",
+      "nearestMetro": "Mahanayak Uttam Kumar (Tollygunge)",
+      "established": "1958",
+      "highlight": "Consistent award-winner in South Kolkata for intricate experimental theme art, lighting, and cultural depth."
+    },
+    {
+      "id": "south-28",
+      "name": "Haridevpur Vivekananda Park Athletic Club",
+      "bengaliName": "হরিদেবপুর বিবেকানন্দ পার্ক",
+      "zone": "Haridevpur",
+      "nearestMetro": "Tollygunge Metro",
+      "established": "1984",
+      "highlight": "Celebrated for innovative contemporary art themes reflecting human resilience, nature, and social harmony."
+    },
+    {
+      "id": "south-29",
+      "name": "Kudghat Pragati Sangha",
+      "bengaliName": "কুঁদঘাট প্রগতি সংঘ",
+      "zone": "Kudghat / Tollygunge",
+      "nearestMetro": "Netaji (Kudghat) Metro",
+      "established": "1963",
+      "highlight": "Famous for rural folk architecture, clay pottery installations, and tranquil spiritual atmosphere."
+    },
+    {
+      "id": "south-30",
+      "name": "Alipore Sarbojanin",
+      "bengaliName": "আলিপুর সর্বজনীন",
+      "zone": "Alipore",
+      "nearestMetro": "Kalighat / Majerhat",
+      "established": "1958",
+      "highlight": "Elegance and grandeur in the heritage quarter of Alipore, featuring splendid temple replicas and devotional serenity."
+    },
+    {
+      "id": "south-31",
+      "name": "25 Pally (Kidderpore)",
+      "bengaliName": "২৫ পল্লী (খিদিরপুর)",
+      "zone": "Kidderpore",
+      "nearestMetro": "Khidirpur / Majerhat",
+      "established": "1942",
+      "highlight": "Historical harmony and community spirit; renowned for monumental architectural replicas and vibrant festivities."
+    },
+    {
+      "id": "south-32",
+      "name": "Golf Green Sarbojanin",
+      "bengaliName": "গল্ফ গ্রিন সর্বজনীন",
+      "zone": "Golf Green",
+      "nearestMetro": "Mahanayak Uttam Kumar (Tollygunge)",
+      "established": "1978",
+      "highlight": "Green and clean puja atmosphere surrounded by lush parks, featuring fine sculptural artistry and cultural soirees."
+    },
+    {
+      "id": "south-33",
+      "name": "Adi Ballygunge Sarbojanin",
+      "bengaliName": "আদি বালিগঞ্জ সর্বজনীন",
+      "zone": "Ballygunge",
+      "nearestMetro": "Ballygunge / Kalighat",
+      "established": "1940",
+      "highlight": "Four-time Asian Paints Sharad Shamman Best Puja champion; historic torchbearer of classical elegance and devotion."
+    },
+    {
+      "id": "south-34",
+      "name": "Ballygunge 21 Pally",
+      "bengaliName": "বালিগঞ্জ ২১ পল্লী",
+      "zone": "Ballygunge",
+      "nearestMetro": "Kalighat Metro",
+      "established": "1965",
+      "highlight": "Celebrated for innovative artistic discovery, handcrafted pandal installations, and lively music concerts."
+    },
+    {
+      "id": "south-35",
+      "name": "Kalighat Yuva Maitri",
+      "bengaliName": "কালীঘাট যুব মৈত্রী",
+      "zone": "Kalighat",
+      "nearestMetro": "Kalighat Metro",
+      "established": "1977",
+      "highlight": "Dynamic youth club adjacent to the historic Kalighat temple, famous for vibrant lighting and socio-cultural themes."
+    },
+    {
+      "id": "south-36",
+      "name": "Barisha Sahajatri",
+      "bengaliName": "বড়িশা সহযাত্রী",
+      "zone": "Barisha",
+      "nearestMetro": "Behala Chowrasta Metro",
+      "established": "1982",
+      "highlight": "Discovery of the Year winner; renowned for breathtaking fine-arts theme installations and rustic elegance."
+    },
+    {
+      "id": "south-37",
+      "name": "Barisha Tapobon",
+      "bengaliName": "বড়িশা তপোবন",
+      "zone": "Barisha",
+      "nearestMetro": "Sakherbazar Metro",
+      "established": "1974",
+      "highlight": "Spiritual retreat theme with tranquil forest and ashram ambience, celebrating nature and ancient Indian Vedic ideals."
+    },
+    {
+      "id": "south-38",
+      "name": "Behala Adarshapally",
+      "bengaliName": "বেহালা আদর্শপল্লী",
+      "zone": "Behala",
+      "nearestMetro": "Taratala Metro",
+      "established": "1960",
+      "highlight": "Winner of both Best Puja and Best Artisan awards; famous for breathtaking sculptural precision and artistic mastery."
+    },
+    {
+      "id": "south-39",
+      "name": "Barisha Shrishti",
+      "bengaliName": "বড়িশা সৃষ্টি",
+      "zone": "Barisha",
+      "nearestMetro": "Behala Chowrasta Metro",
+      "established": "1992",
+      "highlight": "Creative powerhouse curated by eminent master artists; recognized for monumental architectural innovation."
+    },
+    {
+      "id": "south-40",
+      "name": "Haridevpur Ajeya Sanghati",
+      "bengaliName": "হরিদেবপুর অজেয় সংহতি",
+      "zone": "Haridevpur",
+      "nearestMetro": "Tollygunge Metro",
+      "established": "1969",
+      "highlight": "Back-to-back Best Puja winner; celebrated for extraordinary conceptual designs and artistic pandal craftsmanship."
+    },
+    {
+      "id": "south-41",
+      "name": "Shyamapally Shyama Sangha",
+      "bengaliName": "শ্যামাপল্লী শ্যামা সংঘ",
+      "zone": "Jadavpur",
+      "nearestMetro": "Kavi Subhash Metro",
+      "established": "1958",
+      "highlight": "Acclaimed for profound artistic themes led by eminent painters, blending fine art with sacred festivity."
+    },
+    {
+      "id": "south-42",
+      "name": "Barisha Shakti Sangha",
+      "bengaliName": "বড়িশা শক্তি সংঘ",
+      "zone": "Silpara / Barisha",
+      "nearestMetro": "Sakherbazar Metro",
+      "established": "1970",
+      "highlight": "Renowned for collaboration with Silpara Art Association, crafting museum-grade sculptural exhibits."
+    },
+    {
+      "id": "south-43",
+      "name": "Khidderpore Pally Sharadiya",
+      "bengaliName": "খিদিরপুর পল্লী শারদীয়া",
+      "zone": "Kidderpore",
+      "nearestMetro": "Khidirpur Metro",
+      "established": "1950",
+      "highlight": "Historic communal harmony landmark; recognized for Creative Excellence and traditional heritage pandals."
+    },
+    {
+      "id": "south-44",
+      "name": "Barisha Yubakbrindo",
+      "bengaliName": "বড়িশা যুবকবৃন্দ",
+      "zone": "Barisha",
+      "nearestMetro": "Behala Chowrasta Metro",
+      "established": "1965",
+      "highlight": "Celebrated for innovative community craftsmanship, traditional idols, and spirited local cultural evenings."
+    },
+    {
+      "id": "south-45",
+      "name": "Chakraberia Sarbojanin",
+      "bengaliName": "চক্রবেড়িয়া সর্বজনীন",
+      "zone": "Bhowanipore",
+      "nearestMetro": "Netaji Bhavan Metro",
+      "established": "1945",
+      "highlight": "Winner of Best Artisan award; renowned for divine idol sculpting, heritage Bhowanipore aristocracy, and peaceful ambiance."
+    },
+    {
+      "id": "south-46",
+      "name": "Behala Friends Club",
+      "bengaliName": "বেহালা ফ্রেন্ডস ক্লাব",
+      "zone": "Behala",
+      "nearestMetro": "Taratala Metro",
+      "established": "1959",
+      "highlight": "Multi-year Sharad Shamman recipient; acclaimed for poignant social messages, evocative lighting, and musical compositions."
+    },
+    {
+      "id": "south-47",
+      "name": "Thakurpukur State Bank Park Sarbojanin",
+      "bengaliName": "ঠাকুরপুকুর স্টেট ব্যাঙ্ক পার্ক সর্বজনীন",
+      "zone": "Thakurpukur",
+      "nearestMetro": "Joka Metro",
+      "established": "1983",
+      "highlight": "Acclaimed for green eco-friendly themes, intricate wooden and cane crafts, and tranquil garden setting."
+    },
+    {
+      "id": "south-48",
+      "name": "Purbachal Sakti Sangha",
+      "bengaliName": "পূর্বাচল শক্তি সংঘ",
+      "zone": "Haltu / Kasba",
+      "nearestMetro": "Kalighat / Hemanta Mukherjee",
+      "established": "1972",
+      "highlight": "Recent Asian Paints Sharad Shamman Best Puja winner; noted for cutting-edge contemporary themes and brilliant execution."
+    },
+    {
+      "id": "south-49",
+      "name": "Bhowanipore Sanatan Dharmatsahini Sabha",
+      "bengaliName": "ভবানীপুর সনাতন ধর্মোৎসাহিনী সভা",
+      "zone": "Bhowanipore",
+      "nearestMetro": "Netaji Bhavan Metro",
+      "established": "1910",
+      "highlight": "South Kolkata's very first community Barowari puja organized in 1910; over a century of pure orthodox heritage and devotion."
+    },
+    {
+      "id": "south-50",
+      "name": "Bakulbagan Sarbojanin",
+      "bengaliName": "বকুলবাগান সর্বজনীন",
+      "zone": "Bhowanipore",
+      "nearestMetro": "Netaji Bhavan Metro",
+      "established": "1928",
+      "highlight": "Historic pioneer of temple architecture replicas in Kolkata; famous for inviting legends like Jamini Roy and Bikash Bhattacharjee."
+    },
+    {
+      "id": "south-51",
+      "name": "Lake Youth Club",
+      "bengaliName": "লেক ইয়ুথ ক্লাব",
+      "zone": "Lake Gardens",
+      "nearestMetro": "Rabindra Sarobar Metro",
+      "established": "1966",
+      "highlight": "Charming celebration nestled in Lake Gardens, celebrated for artistic idols, serene lighting, and vibrant neighborly unity."
+    },
+    {
+      "id": "south-52",
+      "name": "Garia Naba Durga",
+      "bengaliName": "গড়িয়া নব দুর্গা",
+      "zone": "Garia",
+      "nearestMetro": "Kavi Nazrul (Garia) Metro",
+      "established": "1985",
+      "highlight": "Prominent puja in the southern terminus corridor, renowned for grand illuminated gates and majestic idol displays."
+    },
+    {
+      "id": "south-53",
+      "name": "Patuli Sarbojanin",
+      "bengaliName": "পাটুলী সর্বজনীন",
+      "zone": "Patuli",
+      "nearestMetro": "Shahid Khudiram Metro",
+      "established": "1980",
+      "highlight": "Famous for expansive park installations, lakeside carnival ambience, and family-friendly festive vibes."
+    },
+    {
+      "id": "south-54",
+      "name": "Santoshpur Lake Pally",
+      "bengaliName": "সন্তোষপুর লেক পল্লী",
+      "zone": "Santoshpur",
+      "nearestMetro": "Kavi Subhash Metro",
+      "established": "1958",
+      "highlight": "Renowned for innovative use of indigenous handmade materials, sustainable art, and award-winning conceptual idols."
+    },
+    {
+      "id": "south-55",
+      "name": "Tollygunge Ashoknagar Sarbojanin",
+      "bengaliName": "টালিগঞ্জ অশোকনগর সর্বজনীন",
+      "zone": "Tollygunge",
+      "nearestMetro": "Mahanayak Uttam Kumar Metro",
+      "established": "1961",
+      "highlight": "A cornerstone of Tollygunge's cultural celebrations, featuring traditional music, theatrical performances, and glowing decor."
+    },
+    {
+      "id": "south-56",
+      "name": "Bansdroni Super Star Club",
+      "bengaliName": "বাঁশদ্রোণী সুপার স্টার ক্লাব",
+      "zone": "Bansdroni",
+      "nearestMetro": "Masterda Surya Sen (Bansdroni) Metro",
+      "established": "1975",
+      "highlight": "Major crowd attraction in the southern metro stretch, known for grand thematic architecture and sparkling night illuminations."
+    }
+  ]
+}

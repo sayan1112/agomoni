@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overscroll-behavior: none;
+  font-family: 'Poppins', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0c0d10;
+  color: white;
+  overflow: hidden;
+}
+
+/* Glassmorphism Classes */
+.glass-pill {
+  height: 2.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.08);
+  padding: 0.375rem;
+  backdrop-filter: blur(24px) saturate(150%);
+  -webkit-backdrop-filter: blur(24px) saturate(150%);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+}
+
+.glass-icon-btn {
+  display: grid;
+  height: 2rem;
+  width: 2rem;
+  place-items: center;
+  border-radius: 9999px;
+  color: white;
+  transition: all 0.15s ease-in-out;
+}
+.glass-icon-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+.glass-icon-btn:active {
+  transform: scale(0.95);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.08);
+  backdrop-filter: blur(28px) saturate(150%);
+  -webkit-backdrop-filter: blur(28px) saturate(150%);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+}
+
+/* Bengali Typography */
+.bengali-title {
+  font-family: 'Galada', 'Noto Sans Bengali', cursive, sans-serif;
+  color: #f1d449;
+  -webkit-text-stroke: 2px #000000;
+  paint-order: stroke fill;
+}
+
+@media (min-width: 640px) {
+  .bengali-title {
+    -webkit-text-stroke: 2.5px #000000;
+  }
+}
+
+/* Scrollbar */
+.playlist-scroll::-webkit-scrollbar {
+  width: 5px;
+}
+.playlist-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.playlist-scroll::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 9999px;
+}
+.playlist-scroll::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.35);
+}
+
+/* Smooth background crossfade */
+.bg-transition {
+  transition: opacity 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
